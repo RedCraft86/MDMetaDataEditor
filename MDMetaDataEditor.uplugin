@@ -9,10 +9,11 @@
 	"CreatedByURL": "https://github.com/DoubleDeez",
 	"DocsURL": "https://github.com/DoubleDeez/MDMetaDataEditor",
 	"MarketplaceURL": "",
+	"EnabledByDefault": true,
 	"CanContainContent": false,
-	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false,
+	"IsBetaVersion": false,
+	"Installed": true,
 	"Modules": [
 		{
 			"Name": "MDMetaDataEditor",
